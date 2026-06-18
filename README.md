@@ -38,7 +38,7 @@ if you want to look at any of my code... message me somewhere else (me telling y
 
 ```markdown
 while (!ineedfood) {
-    refactor(); // It worked 5 minutes ago, I swear
+    refactor(); //i swear it was working 5 minutes ago
 }
 ```
 
